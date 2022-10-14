@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rrsartpl
-- 👀 I’m interested in ... programming, continous improvement
-- 🌱 I’m currently learning ... flutter
+- 👀 I’m interested in ... programming, continuous improvement
+- 🌱 I’m currently learning ... flutter, microservices
 - 💞️ I’m looking to collaborate on ... just starting my journey
 - 📫 How to reach me ... over here or by e-mail rrsartpl@gmail.com
 
